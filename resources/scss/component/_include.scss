@@ -1,5 +1,7 @@
 @import 'variables';
-@import 'mixins';
+
+@import './mixins/breakpoints';
+@import './mixins/utils';
+
 @import 'reset';
-// 컨트롤누르고 클릭하면 해당 링크로 넘어가는데 안넘어가면 오류
 
