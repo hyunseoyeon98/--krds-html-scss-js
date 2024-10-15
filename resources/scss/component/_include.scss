@@ -1,7 +1,7 @@
 @import 'variables';
-
-@import './mixins/breakpoints';
-@import './mixins/utils';
-
+@import './group_mixins';
+// 반응형은 리셋 위에...
 @import 'reset';
 
+@import './group_forms';
+@import './group_components';
