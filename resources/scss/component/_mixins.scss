@@ -1,0 +1,6 @@
+// scss 함수..를정의하는파일
+@mixin flexcenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
